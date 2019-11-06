@@ -5,6 +5,7 @@
 > 1- All UDP ports will be under TeamSpeak3 DDoS Protection Zone (You can create a lot of TeamSpeak3 servers by using different UDP ports, all of team will be safe!)
 
 > 2- All TCP ports will be banned except 22,10011,30033,41144 (you can read the descriptions and add more tcp ports which you will use. For instance, 80,443,3306 etc..)
+
 > 3- Except TCP and UDP protocols, all the protocols will be banned (Because you do not need the other protocols like ICMP, IGMP etc.. for your TeamSpeak3 servers, the best way is to block all of the protocols which you will not use)
 
 
